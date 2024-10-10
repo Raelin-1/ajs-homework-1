@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raelin-1/ajs-homework-1.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "raelin_1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raelin-1/ajs-homework-1/issues"
+  },
+  "homepage": "https://github.com/Raelin-1/ajs-homework-1#readme"
+}
